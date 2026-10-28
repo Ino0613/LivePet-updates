@@ -1,0 +1,2 @@
+import"./FilterSystem-xf6vNd3T.js";import{AccessibilitySystem as e,Container as t,DOMPipe as n,EventSystem as r,FederatedContainer as i,accessibilityTarget as a,extensions as o}from"./lib-CTDuS8D1.js";import"./init-DDike9OV.js";o.add(e),o.mixin(t,a),o.add(n),o.add(r),o.mixin(t,i);
+//# sourceMappingURL=browserAll-BAllaUcE.js.map

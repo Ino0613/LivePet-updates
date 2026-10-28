@@ -1,0 +1,2 @@
+import{n as e,t}from"./chroma-key-wzKROTe2.js";var n=new e,r=window.livepet;r&&(r.ai.onStream(e=>n.accept(e)),r.ai.onReply(e=>n.notifyPlayback(e)),r.settings.onChanged(i),r.settings.get().then(i));function i(e){let r=e.pet.danmakuOverlay;n.setHoldSeconds(r.replyHoldSeconds,r.replyHoldMaxSeconds),t(r.chromaKey)}
+//# sourceMappingURL=reply-DnkWv8v7.js.map
